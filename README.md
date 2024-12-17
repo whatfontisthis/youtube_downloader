@@ -1,2 +1,2 @@
 # youtube_downloader
-downloads youtube
+- downloads youtube video by url
